@@ -1,0 +1,20 @@
+===============================================MY LINUX TECH DIARY==================================================
+Name: Lakshmi Sreevalli Kanduri
+Roll No:229P1A0573
+Favorite Commands:
+
+1.cd (Change Directory):
+This command is used to change the current working directory in the terminal.
+2.clear:
+This command clears the terminal screen, removing all previous output and displaying a clean prompt.
+3.ls (List):
+This command lists the contents of a directory.
+4.mkdir (Make Directory):
+This command creates a new directory.
+5.cp (Copy):
+This command copies files and directories.
+  404  ls
+  405  nano profile.txt
+  406  nano commands.txt
+  407  history
+  408  history 5 >> log.txt
